@@ -36,7 +36,11 @@ public class DeadZone : MonoBehaviour
             GameManager.instance.IsDie = true;
         }
 
-        Destroy(other.gameObject);
+        else if (other.gameObject.tag == "Obstacle")
+        {
+            Destroy(other.gameObject);
+            Debug.Log("Obstacle");
+        }
     }
 }
 

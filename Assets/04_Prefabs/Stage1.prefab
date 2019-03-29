@@ -23,7 +23,7 @@ GameObject:
   - component: {fileID: 61638985250554860}
   m_Layer: 0
   m_Name: Block
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41,7 +41,7 @@ GameObject:
   - component: {fileID: 60656749956861550}
   m_Layer: 0
   m_Name: thorn (1)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -59,7 +59,7 @@ GameObject:
   - component: {fileID: 60665210400182362}
   m_Layer: 0
   m_Name: thorn
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -72,9 +72,10 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4303245253700282}
+  - component: {fileID: 61232596541444152}
   m_Layer: 0
   m_Name: Blocks
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -92,7 +93,7 @@ GameObject:
   - component: {fileID: 60740756460022140}
   m_Layer: 0
   m_Name: thorn
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -111,7 +112,7 @@ GameObject:
   - component: {fileID: 114793026052687988}
   m_Layer: 0
   m_Name: MoveThornX
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -129,7 +130,7 @@ GameObject:
   - component: {fileID: 60539776824297636}
   m_Layer: 0
   m_Name: thorn (3)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -147,7 +148,7 @@ GameObject:
   - component: {fileID: 60554947595618650}
   m_Layer: 0
   m_Name: thorn
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -160,9 +161,10 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4112358512530350}
+  - component: {fileID: 61367422004762408}
   m_Layer: 0
   m_Name: Thorns
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -180,7 +182,7 @@ GameObject:
   - component: {fileID: 60916437488449480}
   m_Layer: 0
   m_Name: thorn (2)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -198,7 +200,7 @@ GameObject:
   - component: {fileID: 60261472533687310}
   m_Layer: 0
   m_Name: thorn (3)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -216,7 +218,7 @@ GameObject:
   - component: {fileID: 60946272039627514}
   m_Layer: 0
   m_Name: thorn
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -234,7 +236,7 @@ GameObject:
   - component: {fileID: 60685111145146624}
   m_Layer: 0
   m_Name: thorn
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -267,7 +269,7 @@ GameObject:
   - component: {fileID: 60015992732758792}
   m_Layer: 0
   m_Name: thorn (1)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -280,9 +282,10 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4761573016253188}
+  - component: {fileID: 61963543576113026}
   m_Layer: 0
   m_Name: Thorns
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -300,7 +303,7 @@ GameObject:
   - component: {fileID: 60264287277689892}
   m_Layer: 0
   m_Name: thorn (1)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -318,7 +321,7 @@ GameObject:
   - component: {fileID: 60982449961837994}
   m_Layer: 0
   m_Name: thorn (1)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -335,7 +338,7 @@ GameObject:
   - component: {fileID: 61067498370757310}
   m_Layer: 0
   m_Name: Block
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -353,7 +356,7 @@ GameObject:
   - component: {fileID: 60067244798789974}
   m_Layer: 0
   m_Name: thorn (1)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -371,7 +374,7 @@ GameObject:
   - component: {fileID: 60701844081391542}
   m_Layer: 0
   m_Name: thorn (4)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -389,7 +392,7 @@ GameObject:
   - component: {fileID: 114622512699479850}
   m_Layer: 0
   m_Name: EndLine
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -407,7 +410,7 @@ GameObject:
   - component: {fileID: 60934529923946902}
   m_Layer: 0
   m_Name: thorn (4)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -424,7 +427,7 @@ GameObject:
   - component: {fileID: 61008222059084674}
   m_Layer: 0
   m_Name: Block
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -442,7 +445,7 @@ GameObject:
   - component: {fileID: 60098831772679474}
   m_Layer: 0
   m_Name: thorn (2)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -460,7 +463,7 @@ GameObject:
   - component: {fileID: 60147099935237346}
   m_Layer: 0
   m_Name: thorn (2)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -478,7 +481,7 @@ GameObject:
   - component: {fileID: 60734768018077826}
   m_Layer: 0
   m_Name: thorn (2)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -496,7 +499,7 @@ GameObject:
   - component: {fileID: 60597181240014908}
   m_Layer: 0
   m_Name: thorn (2)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -514,7 +517,7 @@ GameObject:
   - component: {fileID: 60393594829712186}
   m_Layer: 0
   m_Name: thorn (5)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -532,7 +535,7 @@ GameObject:
   - component: {fileID: 60911268138552102}
   m_Layer: 0
   m_Name: thorn (4)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -550,7 +553,7 @@ GameObject:
   - component: {fileID: 60044647066492368}
   m_Layer: 0
   m_Name: thorn
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -568,7 +571,7 @@ GameObject:
   - component: {fileID: 60144148623363148}
   m_Layer: 0
   m_Name: thorn (1)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -586,7 +589,7 @@ GameObject:
   - component: {fileID: 60298553879666928}
   m_Layer: 0
   m_Name: thorn (1)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -603,7 +606,7 @@ GameObject:
   - component: {fileID: 61297843408949790}
   m_Layer: 0
   m_Name: Block
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -621,7 +624,7 @@ GameObject:
   - component: {fileID: 60739413666568692}
   m_Layer: 0
   m_Name: thorn
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -639,7 +642,7 @@ GameObject:
   - component: {fileID: 60117646267658228}
   m_Layer: 0
   m_Name: thorn (3)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -657,7 +660,7 @@ GameObject:
   - component: {fileID: 60078225671916360}
   m_Layer: 0
   m_Name: thorn (5)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -674,7 +677,7 @@ GameObject:
   - component: {fileID: 61809119729541470}
   m_Layer: 0
   m_Name: Block
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -692,7 +695,7 @@ GameObject:
   - component: {fileID: 60142165726318390}
   m_Layer: 0
   m_Name: thorn
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -710,7 +713,7 @@ GameObject:
   - component: {fileID: 60243810041661854}
   m_Layer: 0
   m_Name: thorn (2)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -728,7 +731,7 @@ GameObject:
   - component: {fileID: 60441930643150638}
   m_Layer: 0
   m_Name: thorn (3)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -746,7 +749,7 @@ GameObject:
   - component: {fileID: 60519675960120712}
   m_Layer: 0
   m_Name: thorn (3)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -764,7 +767,7 @@ GameObject:
   - component: {fileID: 60314832970523080}
   m_Layer: 0
   m_Name: thorn (4)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -782,7 +785,7 @@ GameObject:
   - component: {fileID: 60807635086837384}
   m_Layer: 0
   m_Name: thorn (5)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -800,7 +803,7 @@ GameObject:
   - component: {fileID: 60520933647464738}
   m_Layer: 0
   m_Name: thorn (2)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -818,7 +821,7 @@ GameObject:
   - component: {fileID: 60913304259502250}
   m_Layer: 0
   m_Name: thorn
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -836,7 +839,7 @@ GameObject:
   - component: {fileID: 60010051396427976}
   m_Layer: 0
   m_Name: thorn (2)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -853,7 +856,7 @@ GameObject:
   - component: {fileID: 61219810653041726}
   m_Layer: 0
   m_Name: Block
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -871,7 +874,7 @@ GameObject:
   - component: {fileID: 60109222306078728}
   m_Layer: 0
   m_Name: thorn (5)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -889,7 +892,7 @@ GameObject:
   - component: {fileID: 60538053955979064}
   m_Layer: 0
   m_Name: thorn (3)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -907,7 +910,7 @@ GameObject:
   - component: {fileID: 60182499045169782}
   m_Layer: 0
   m_Name: thorn (1)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -924,7 +927,7 @@ GameObject:
   - component: {fileID: 61116184230917266}
   m_Layer: 0
   m_Name: Block
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -942,7 +945,7 @@ GameObject:
   - component: {fileID: 60577791562761496}
   m_Layer: 0
   m_Name: thorn
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -960,7 +963,7 @@ GameObject:
   - component: {fileID: 60111073157853538}
   m_Layer: 0
   m_Name: thorn (5)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -978,7 +981,7 @@ GameObject:
   - component: {fileID: 60814709702657794}
   m_Layer: 0
   m_Name: thorn (4)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -996,7 +999,7 @@ GameObject:
   - component: {fileID: 60672026699251622}
   m_Layer: 0
   m_Name: thorn (3)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1009,9 +1012,10 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4263279397614296}
+  - component: {fileID: 61730314144937418}
   m_Layer: 0
   m_Name: Thorns
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1029,7 +1033,7 @@ GameObject:
   - component: {fileID: 60255229140304302}
   m_Layer: 0
   m_Name: thorn (4)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1047,7 +1051,7 @@ GameObject:
   - component: {fileID: 60005714420282362}
   m_Layer: 0
   m_Name: thorn (5)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1065,7 +1069,7 @@ GameObject:
   - component: {fileID: 60482176827873786}
   m_Layer: 0
   m_Name: thorn (5)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1083,7 +1087,7 @@ GameObject:
   - component: {fileID: 60058735635103954}
   m_Layer: 0
   m_Name: thorn (4)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1101,7 +1105,7 @@ GameObject:
   - component: {fileID: 60619213919128516}
   m_Layer: 0
   m_Name: thorn (3)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1119,7 +1123,7 @@ GameObject:
   - component: {fileID: 60637153784378214}
   m_Layer: 0
   m_Name: thorn
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1137,7 +1141,7 @@ GameObject:
   - component: {fileID: 60282512775695844}
   m_Layer: 0
   m_Name: thorn (4)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1155,7 +1159,7 @@ GameObject:
   - component: {fileID: 60192012194552276}
   m_Layer: 0
   m_Name: thorn (5)
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5081,6 +5085,31 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 10.8, y: 19.2}
   m_EdgeRadius: 0
+--- !u!61 &61232596541444152
+BoxCollider2D:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1033085109953918}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!61 &61297843408949790
 BoxCollider2D:
   m_ObjectHideFlags: 1
@@ -5105,6 +5134,31 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.8, y: 19.2}
+  m_EdgeRadius: 0
+--- !u!61 &61367422004762408
+BoxCollider2D:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1106529364739520}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
 --- !u!61 &61638985250554860
 BoxCollider2D:
@@ -5156,6 +5210,31 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 5, y: 3}
   m_EdgeRadius: 0
+--- !u!61 &61730314144937418
+BoxCollider2D:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1854453168461078}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!61 &61809119729541470
 BoxCollider2D:
   m_ObjectHideFlags: 1
@@ -5180,6 +5259,31 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 10.8, y: 19.2}
+  m_EdgeRadius: 0
+--- !u!61 &61963543576113026
+BoxCollider2D:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1165385425836632}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
 --- !u!114 &114015661356865950
 MonoBehaviour:
