@@ -10,7 +10,8 @@ public class DeadZone : MonoBehaviour
     {
         if (GameManager.instance.IsGameStart)
         {
-            transform.Translate(new Vector2(0, 1) * speed * Time.deltaTime);
+            if (!GameManager.instance.IsDie)
+                transform.Translate(new Vector2(0, 1) * speed * Time.deltaTime);
         }
     }
 
