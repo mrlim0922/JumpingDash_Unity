@@ -15,11 +15,11 @@ public class Ball : MonoBehaviour {
     private void Update()
     {
         MainCamera.transform.position = Vector3.Lerp(MainCamera.transform.position,
-            new Vector3(MainCamera.transform.position.x, transform.position.y, -10f), Time.deltaTime);
+            new Vector3(MainCamera.transform.position.x, transform.position.y, -10), Time.deltaTime);
     }
 
 
-    public void LeftJump()
+    public void LeftJumpBtn()  
     {
         if(!GameManager.instance.IsGameStart)
         {
@@ -31,9 +31,8 @@ public class Ball : MonoBehaviour {
         {
             gameObject.GetComponent<Rigidbody2D>().velocity = new Vector3(-1.5f, 6f, 0);
         }
-    }
-
-    public void RightJump()
+    } //Player LeftJump Button
+    public void RightJumpBtn() 
     {
         if (!GameManager.instance.IsGameStart)
         {
@@ -45,5 +44,5 @@ public class Ball : MonoBehaviour {
         {
             gameObject.GetComponent<Rigidbody2D>().velocity = new Vector3(1.5f, 6f, 0);
         }
-    }
+    } //Player RightJump Button
 }
